@@ -1,0 +1,187 @@
+body {
+  font-family: sans-serif;
+  margin: 30px;
+}
+section{
+  width: 50%;
+  float: left;
+}
+h1{
+  margin: 0;
+}
+#gradient h1 {
+  font-size: 35px;
+}
+#gradient-1{
+  opacity: 1;
+  margin-bottom: 0px;
+}
+#gradient-2{
+  opacity: .60;
+}
+#gradient-3{
+  opacity: .50;
+}
+#gradient-4{
+  opacity: .40;
+}
+#gradient-5{
+  opacity: .30;
+}
+
+#dog h1{
+  font-size: 55px;
+  margin: 0;
+  display: inline;
+  word-break: break-all;
+  hyphens: auto;
+}
+#run {
+  color: crimson;
+}
+#chew{
+  color: cornflowerblue;
+}
+#die{
+  color: firebrick;
+}
+#life{
+  color: gold;
+}
+
+#rt h1 {
+  background-color: gold;
+  font-size:60px;
+  margin:0;
+  display: inline;
+  word-break: break-all;
+}
+#ham {
+  color:brown;
+  opacity:.80;
+}
+#ratt {
+  color:brown;
+  opacity: .70;
+}
+#monkey {
+  color:brown;
+  opacity: .60;
+}
+#age {
+  color:brown;
+  opacity: .50;
+}
+#kid {
+  color:brown;
+  opacity: .40;
+}
+#person {
+  color:brown;
+  opacity:.20;
+}
+
+#type h1 {
+  background-color:olive;
+}
+#ran {
+  font-size:70px;
+}
+#op{
+  font-size:60px;
+}
+#server {
+  font-size:50px;
+}
+#bitmap {
+  font-size: 40px;
+}
+#typeface {
+  font-size: 30px;
+}
+#font{
+  font-style: italic;
+  font-size: 20px;
+  font-family: serif;
+}
+
+#short h1 {
+  float: right;
+  font-family: monospace;
+}
+#line1 {
+  font-size: 90px;
+  color: slategray;
+}
+#line2 {
+  font-size: 40px;
+  color: springgreen;
+}
+#line3 {
+  font-size: 90px;
+  color: slategray;
+}
+#line4{
+  font-size: 40px;
+  color: springgreen;
+}
+#line5{
+  font-size:45px;
+}
+
+#short2 h1{
+  float:left;
+  font-family: cursive;
+}
+#lines1{
+  background-color: yellow;
+  color: palevioletred;
+}
+#lines3{
+  background-color: yellow;
+  color:palevioletred
+}
+
+#bahn h1{
+  float:left;
+}
+#bread{
+  color:peru;
+}
+#fluff{
+  color:plum;
+}
+#carrot{
+  color:orange;
+}
+#spice{
+  color:maroon;
+}
+#mi{
+  font-size: 74px;
+  font-style:italic;
+}
+
+#ten h1 {
+  color:blueviolet;
+}
+#one{
+  font-size:45px;
+  opacity:.90;
+}
+#two{
+  font-size:40px;
+  opacity:.80;
+}
+#three{
+  font-size:35px;
+  opacity:.70;
+}
+#four{
+  font-size:30px;
+  opacity:.60;
+}
+#five{
+  font-size:25px;
+  opacity:.40;
+}
