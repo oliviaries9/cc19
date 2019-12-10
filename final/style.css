@@ -1,0 +1,633 @@
+html{
+  background: black;
+}
+p {
+  font-family: sans-serif;
+  font-size: 30px;
+  transform-origin: 50% 50%;
+  transform: perspective(300px) rotateX(4deg);
+  display: block;
+  margin-block-start: 40px;
+  margin-block-end: 30px;
+  margin-inline-start: 80px;
+  margin-inline-end: 80px;
+  text-align: justify;
+  background-color: black;
+  color: #00a478;
+
+}
+
+#maintitle {
+  color: white;
+  font-size: 60px;
+  margin-left:500px;
+
+}
+
+#kermit{
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1300px;
+  left: 600px;
+  cursor: pointer;
+
+
+}
+
+#lgood{
+  cursor: pointer;
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1000px;
+  left:55px;
+
+}
+
+#jun{
+  cursor: pointer;
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1000px;
+  left: 600px;
+
+}
+
+#wedpic{
+  cursor: pointer;
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1000px;
+  left: 1100px;
+
+}
+
+#tub{
+  cursor: pointer;
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1300px;
+  left:55px;
+}
+
+#room{
+  cursor: pointer;
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1300px;
+  left: 1100px;
+
+}
+
+#boom{
+  cursor: pointer;
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1600px;
+  left: 55px;
+
+}
+
+#paper{
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  top: 1600px;
+  left: 600px;
+  cursor: pointer;
+
+}
+
+#smell{
+  max-width: 100px;
+  max-height: 100px;
+  position: absolute;
+  display: inline-block;
+  cursor: pointer;
+  top: 1600px;
+  left:1100px;
+
+}
+
+
+
+title{
+ font-size: 60px;
+ margin-right: 70px;
+ font-family: serif;
+}
+
+#two {
+  font-family: sans-serif;
+  font-size: 30px;
+  transform-origin: 50% 50%;
+  transform: perspective(300px) rotateX(-3deg);
+  display: block;
+  margin-top: 40px;
+  margin-block-start: 30px;
+  margin-block-end: 30px;
+  margin-inline-start: 90px;
+  margin-inline-end: 80px;
+  text-align: justify;
+  line-height: 40px;
+  color: #00a478;
+
+
+}
+
+.alignment {
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #a360e0;
+}
+#lawfulgood {
+  margin-left: 25px;
+  margin-top: -5px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+#neutralgood{
+  margin-left: 300px;
+  margin-top: -50px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+#chaoticgood{
+  margin-left: 1000px;
+  display: inline-block;
+  margin-top: -40px;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+
+#lawfulneutral{
+  margin-left: 25px;
+  margin-top: 300px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+
+#neutral{
+  margin-left:300px;
+  margin-top:-42px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+
+#chaoticneutral{
+  margin-left:1000px;
+  margin-top: -42px;
+  cursor: pointer;
+  font-style: normal;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+
+#lawfulevil{
+  margin-left:25px;
+  margin-top:250px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+
+
+}
+
+#neutralevil{
+  margin-left: 300px;
+  margin-top: 250px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+    position: absolute;
+
+
+}
+
+
+#chaoticevil{
+  margin-left: 1000px;
+  margin-top:-42px;
+  margin-bottom: 2000px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+
+#title{
+  font-size: 70px;
+  margin-left: 300px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+
+#chaotictext {
+  font-size: 20px;
+  font-family: monospace;
+  display: block;
+  transform-origin: 50% 50%;
+  transform: perspective(100px) rotateX(-5deg);
+  margin-block-start: 90px;
+  margin-block-end: 80px;
+  margin-inline-start: 160px;
+  margin-inline-end: 130px;
+  line-height: 40px;
+
+
+}
+
+
+#roommatetxt{
+  margin-left: 70px;
+  margin-bottom: 400px;
+  margin-top: -170px;
+  font-size: 30px;
+  font-family: cursive;
+  transform-origin: 50% 50%;
+  transform: perspective(100px) rotateX(-5deg);
+  display: block;
+  margin-block-start: 60px;
+  margin-block-end: 30px;
+  margin-inline-start: 100px;
+  margin-inline-end: 80px;
+  text-align: justify;
+  line-height: 40px;
+
+}
+
+#roommate{
+  margin-top: 40px;
+  float: left;
+  transform-origin: 50% 50%;
+  transform: perspective(400px) rotateX(4deg);
+  cursor: pointer;
+
+
+}
+
+#audio{
+  opacity: 0%;
+}
+
+#ravenaudio{
+  opacity: 0%;
+
+}
+
+#raven{
+  margin-top: -20px;
+  max-width: 400px;
+  margin-left: 93px;
+  height: auto;
+  float: left;
+  cursor: pointer;
+}
+
+#raventext {
+  margin-left: 600px;
+  font-style: normal;
+  font-family: sans-serif;
+  font-size: 70px;
+  color: white;
+
+
+}
+
+#raventexttwo{
+  margin-left: 800px;
+  font-style: italic;
+  font-size: 30px;
+  font-family: cursive;
+  color: white;
+}
+
+#goodtitle{
+  font-size: 70px;
+  margin-left: 340px;
+  margin-top: 50px;
+  cursor: pointer;
+  display: inline-block;
+  color: #00a478;
+  margin-bottom: -50px;
+}
+
+#goodtext{
+  margin-left: 70px;
+  margin-bottom: 400px;
+  margin-top: -170px;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-block-start: 60px;
+  margin-block-end: 30px;
+  margin-inline-start: 100px;
+  margin-inline-end: 80px;
+  text-align: justify;
+  line-height: 40px;
+  color: white;
+}
+
+
+#chaoticeviltitle{
+  color: #00a478;
+  font-size: 70px;
+  margin-left: 300px;
+  margin-bottom: 70px;
+}
+
+#chaoticeviltext{
+  color: white;
+  font-size: 30px;
+  line-height: 70px;
+  font-family: sans-serif;
+  transform-origin: 50% 50%;
+  transform: perspective(100px) rotateX(-3deg);
+  display: block;
+  margin-block-start: 80px;
+  margin-block-end: 40px;
+  margin-inline-start: 0px;
+  margin-inline-end: -20px;
+  text-align: justify;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+#beeftext{
+  color: white;
+  margin-left: 300px;
+  font-size: 40px;
+
+}
+
+#beefaudio{
+  opacity: 0%;
+}
+
+#beef {
+  margin-left: 400px;
+  cursor: pointer;
+  transform-origin: 50% 50%;
+  transform: perspective(100px) rotateX(-3deg);
+  display: block;
+}
+
+#chaoticeviltext2 {
+  color: white;
+  font-size: 80px;
+  line-height: 70px;
+  font-family: sans-serif;
+  transform-origin: 50% 50%;
+  transform: perspective(300px) rotateX(5deg);
+  display: block;
+  margin-block-start: -2004px;
+  margin-block-end: 40px;
+  margin-inline-start: -300px;
+  margin-inline-end: 300px;
+  text-align: justify;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: -3500px;
+  color: red;
+  opacity: 60%;
+  direction: rtl;
+
+}
+
+
+
+#lawfuleviltext{
+  color: white;
+  margin-left: 70px;
+  margin-top: 60px;
+  text-align: justify;
+  margin-right: 70px;
+  line-height: 45px;
+  font-size: 30px;
+  transform-origin: 50% 50%;
+  transform: perspective(300px) rotateX(-5deg);
+  display: block;
+
+}
+
+#lawfuleviltitle{
+  color: white;
+  font-size: 60px;
+  margin-left: 40px;
+  text-decoration: overline;
+}
+
+#child{
+  max-width: 400px;
+  max-height: 400px;
+  cursor: pointer;
+  margin-left: 130px;
+  margin-top: 30px;
+  transform-origin: 50% 50%;
+  transform: perspective(300px) rotateX(-5deg);
+}
+
+#boomchild {
+  opacity: 0%;
+
+}
+
+#childtext{
+  color: #00a478;
+  margin-left: 600px;
+  font-size: 30px;
+  margin-top: -150px;
+}
+
+#childtexttwo {
+  color: #00a478;
+  margin-left: 630px;
+  font-size: 100px;
+  margin-top: 0px;
+  font-family: cursive;
+  font-kerning: 50px;
+
+}
+
+#neutraltitle{
+  color: white;
+  margin-left: 500px;
+  font-size: 50px;
+}
+
+#neutraltext {
+  color: white;
+  margin-left: 40px;
+  text-align: center;
+  margin-right: 40px;
+  margin-top: 50px;
+
+}
+
+#road{
+  max-width: 500px;
+  max-height: 500px;
+  margin-left: 500px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+
+#roadwork{
+  opacity: 0%
+}
+
+#roadtext{
+  color: white;
+  margin-left: 590px;
+  margin-top: 50px;
+
+}
+
+#kermie{
+  max-width: 500px;
+  max-height: 500px;
+  margin-left: 500px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+#ktext{
+  color: white;
+  margin-left: 650px;
+  margin-top: 50px;
+
+}
+
+#lawfulneutraltitle{
+  color: white;
+  margin-left: 50px;
+  font-size: 50px;
+}
+
+#lawfulneurtaltext{
+  color: white;
+  margin-left: 50px;
+  margin-top: 50px;
+  text-align: left;
+  font-size: 25px;
+  color: #00a478;
+}
+
+#twobros{
+  max-width: 500px;
+  max-height: 500px;
+  margin-left: 50px;
+  margin-top: 50px;
+  cursor: pointer;
+
+}
+
+
+
+#hottub{
+  opacity: 0%;
+
+}
+
+#hottext{
+  color: white;
+  margin-left: 50px;
+  margin-top: 50px;
+  text-align: left;
+  font-size: 25px;
+  margin-bottom: 400px;
+}
+
+#chaoticgoodtitle{
+  color: #00a478;
+  font-size: 90px;
+  margin-left: 600px;
+  margin-right: -200px;
+  margin-top: 100px;
+}
+
+
+#chaoticgoodtext{
+  color: white;
+  margin-left: 70px;
+  margin-top: 60px;
+  text-align: justify;
+  margin-right: 70px;
+  line-height: 75px;
+  font-size: 60px;
+  transform-origin: 50% 50%;
+  transform: perspective(300px) rotateX(7deg);
+  display: block;
+  margin-block-start: 80px;
+  margin-block-end: 40px;
+  margin-inline-start: 70px;
+  margin-inline-end: 300px;
+}
+
+
+
+
+#wednesday{
+  cursor: pointer;
+
+}
+
+
+
+#wedtex{
+  color: white;
+  font-size: 90px;
+  position: absolute;
+  margin-top: -200px;
+  margin-left: 400px;
+
+}
+
+
+#wedtextwo{
+  color: white;
+  font-size: 90px;
+  position: absolute;
+  margin-top: -110px;
+  margin-left: 400px;
+
+}
+
+#wednesdayaudio{
+  opacity: 0%;
+
+}
